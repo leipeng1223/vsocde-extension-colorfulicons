@@ -17,7 +17,7 @@
     }
   ],
   "iconDefinitions": {
-    "_testIcon": { "iconPath": "./icons/fduvislogo.svg" },
+    "_testIcon": { "iconPath": "./star.svg" },
     "_R_light": { "fontCharacter": "\\E001", "fontColor": "#498ba7" },
     "_R": { "fontCharacter": "\\E001", "fontColor": "#519aba" },
     "_argdown_light": { "fontCharacter": "\\E003", "fontColor": "#498ba7" },

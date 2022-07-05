@@ -40,7 +40,7 @@
 			{
 				"id": "myExtension",
 				"label": "myExtension",
-				"path": "./my-icon-theme.json"
+				"path": "./icons/my-icon-theme.json"
 			}
 		]
 	},
